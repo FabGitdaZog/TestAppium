@@ -1,0 +1,68 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Робота\\ImprovementPlanProject\\TestAppium\\TestAppium\\TestAppium.csproj": {}
+  },
+  "projects": {
+    "D:\\Робота\\ImprovementPlanProject\\TestAppium\\TestAppium\\TestAppium.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Робота\\ImprovementPlanProject\\TestAppium\\TestAppium\\TestAppium.csproj",
+        "projectName": "TestAppium",
+        "projectPath": "D:\\Робота\\ImprovementPlanProject\\TestAppium\\TestAppium\\TestAppium.csproj",
+        "packagesPath": "C:\\Users\\bogda\\.nuget\\packages\\",
+        "outputPath": "D:\\Робота\\ImprovementPlanProject\\TestAppium\\TestAppium\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\bogda\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net45"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net45": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net45": {
+          "dependencies": {
+            "Appium.WebDriver": {
+              "target": "Package",
+              "version": "[4.3.1, )"
+            },
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[16.4.0, )"
+            },
+            "NUnit3TestAdapter": {
+              "target": "Package",
+              "version": "[3.15.1, )"
+            },
+            "Test.Automation.Framework": {
+              "target": "Package",
+              "version": "[1.0.0.6, )"
+            },
+            "nunit": {
+              "target": "Package",
+              "version": "[3.12.0, )"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
